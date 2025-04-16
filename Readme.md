@@ -34,16 +34,14 @@ A CNN-based Pneumonia detection model built using TensorFlow and Keras, trained 
    ```bash
    git clone https://github.com/your-username/Pneumonia-Detector.git
    ```
-2. **Open in Google Colab**
-3. **Upload your kaggle.json (API credentials).**
-4. **Train the model or load existing weights.**
-5. **Upload your X-ray image and get the prediction!**
+2. Open in Google Colab
+3. Upload your kaggle.json (API credentials).
+4. Train the model or load existing weights.
+5. Upload your X-ray image and get the prediction!
 
    ---
 
 ## Dataset
 
 - **Source:** [Kaggle - Chest X-Ray Images (Pneumonia)](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia)
-- **Access Method:** Automatically downloaded using `kagglehub.dataset_download`.
-
 ---
